@@ -1,0 +1,5 @@
+
+Title: Deep Learning
+Category: Deep Learning
+
+Deep Learning is a specialized area of machine learning that uses artificial neural networks with multiple layers. It can process large amounts of complex data such as images, audio, and text. Deep learning is widely used in speech recognition, facial recognition, autonomous vehicles, and natural language processing.

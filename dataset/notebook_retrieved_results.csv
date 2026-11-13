@@ -1,0 +1,201 @@
+query_id,query,rank,document_id,title,category,similarity_score,document
+Q1,What is artificial intelligence and how does it work?,1,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.7425533533096313,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q1,What is artificial intelligence and how does it work?,2,document7.txt,Artificial Intelligence in Robotics,Robotics,0.5958489179611206,"Title: Artificial Intelligence in Robotics
+Category: Robotics
+
+AI in Robotics combines artificial intelligence with mechanical systems to create intelligent robots. These robots can sense their surroundings, make decisions, and perform tasks automatically. Applications include industrial automation, healthcare assistance, agriculture, and space exploration."
+Q1,What is artificial intelligence and how does it work?,3,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.5808653235435486,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q1,What is artificial intelligence and how does it work?,4,document9.txt,Artificial Intelligence in Education,Education,0.5715217590332031,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."
+Q1,What is artificial intelligence and how does it work?,5,document2.txt,Machine Learning,Machine Learning,0.5383683443069458,"Title: Machine Learning
+Category: Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. It uses algorithms to identify patterns, make predictions, and improve performance. Common applications include spam detection, recommendation systems, fraud detection, and image recognition."
+Q2,How can computers learn from data?,1,document2.txt,Machine Learning,Machine Learning,0.4718061089515686,"Title: Machine Learning
+Category: Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. It uses algorithms to identify patterns, make predictions, and improve performance. Common applications include spam detection, recommendation systems, fraud detection, and image recognition."
+Q2,How can computers learn from data?,2,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.36216384172439575,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q2,How can computers learn from data?,3,document6.txt,Computer Vision,Computer Vision,0.30980443954467773,"Title: Computer Vision
+Category: Computer Vision
+
+Computer Vision is a branch of Artificial Intelligence that enables computers to understand and analyze visual information from images and videos. It is used in facial recognition, medical image analysis, object detection, traffic monitoring, and security systems."
+Q2,How can computers learn from data?,4,document9.txt,Artificial Intelligence in Education,Education,0.3045634627342224,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."
+Q2,How can computers learn from data?,5,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.2996610403060913,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q3,What are neural networks used for?,1,document3.txt,Deep Learning,Deep Learning,0.54323810338974,"Title: Deep Learning
+Category: Deep Learning
+
+Deep Learning is a specialized area of machine learning that uses artificial neural networks with multiple layers. It can process large amounts of complex data such as images, audio, and text. Deep learning is widely used in speech recognition, facial recognition, autonomous vehicles, and natural language processing."
+Q3,What are neural networks used for?,2,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.4667682647705078,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q3,What are neural networks used for?,3,document2.txt,Machine Learning,Machine Learning,0.4520261287689209,"Title: Machine Learning
+Category: Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. It uses algorithms to identify patterns, make predictions, and improve performance. Common applications include spam detection, recommendation systems, fraud detection, and image recognition."
+Q3,What are neural networks used for?,4,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.3998452425003052,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q3,What are neural networks used for?,5,document6.txt,Computer Vision,Computer Vision,0.3966813087463379,"Title: Computer Vision
+Category: Computer Vision
+
+Computer Vision is a branch of Artificial Intelligence that enables computers to understand and analyze visual information from images and videos. It is used in facial recognition, medical image analysis, object detection, traffic monitoring, and security systems."
+Q4,How do computers understand human language?,1,document4.txt,Natural Language Processing,NLP,0.39325886964797974,"Title: Natural Language Processing
+Category: NLP
+
+Natural Language Processing is a field of Artificial Intelligence that helps computers understand, interpret, and generate human language. It is used in chatbots, language translation, sentiment analysis, voice assistants, and text summarization. NLP makes communication between humans and computers easier."
+Q4,How do computers understand human language?,2,document6.txt,Computer Vision,Computer Vision,0.3340042233467102,"Title: Computer Vision
+Category: Computer Vision
+
+Computer Vision is a branch of Artificial Intelligence that enables computers to understand and analyze visual information from images and videos. It is used in facial recognition, medical image analysis, object detection, traffic monitoring, and security systems."
+Q4,How do computers understand human language?,3,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.29555630683898926,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q4,How do computers understand human language?,4,document9.txt,Artificial Intelligence in Education,Education,0.286207914352417,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."
+Q4,How do computers understand human language?,5,document2.txt,Machine Learning,Machine Learning,0.2564507722854614,"Title: Machine Learning
+Category: Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. It uses algorithms to identify patterns, make predictions, and improve performance. Common applications include spam detection, recommendation systems, fraud detection, and image recognition."
+Q5,Which technology can generate new text and images?,1,document5.txt,Generative Artificial Intelligence,Generative AI,0.5781399607658386,"Title: Generative Artificial Intelligence
+Category: Generative AI
+
+Generative AI is a technology that creates new content such as text, images, audio, and videos. It uses trained models to generate meaningful outputs based on user instructions. ChatGPT, image generators, and AI writing assistants are examples of generative AI applications."
+Q5,Which technology can generate new text and images?,2,document4.txt,Natural Language Processing,NLP,0.2925896644592285,"Title: Natural Language Processing
+Category: NLP
+
+Natural Language Processing is a field of Artificial Intelligence that helps computers understand, interpret, and generate human language. It is used in chatbots, language translation, sentiment analysis, voice assistants, and text summarization. NLP makes communication between humans and computers easier."
+Q5,Which technology can generate new text and images?,3,document6.txt,Computer Vision,Computer Vision,0.2583928108215332,"Title: Computer Vision
+Category: Computer Vision
+
+Computer Vision is a branch of Artificial Intelligence that enables computers to understand and analyze visual information from images and videos. It is used in facial recognition, medical image analysis, object detection, traffic monitoring, and security systems."
+Q5,Which technology can generate new text and images?,4,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.2564460039138794,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q5,Which technology can generate new text and images?,5,document9.txt,Artificial Intelligence in Education,Education,0.2150631546974182,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."
+Q6,How can computers recognize objects in pictures?,1,document6.txt,Computer Vision,Computer Vision,0.566565752029419,"Title: Computer Vision
+Category: Computer Vision
+
+Computer Vision is a branch of Artificial Intelligence that enables computers to understand and analyze visual information from images and videos. It is used in facial recognition, medical image analysis, object detection, traffic monitoring, and security systems."
+Q6,How can computers recognize objects in pictures?,2,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.34998881816864014,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q6,How can computers recognize objects in pictures?,3,document2.txt,Machine Learning,Machine Learning,0.3388693332672119,"Title: Machine Learning
+Category: Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. It uses algorithms to identify patterns, make predictions, and improve performance. Common applications include spam detection, recommendation systems, fraud detection, and image recognition."
+Q6,How can computers recognize objects in pictures?,4,document7.txt,Artificial Intelligence in Robotics,Robotics,0.3149385452270508,"Title: Artificial Intelligence in Robotics
+Category: Robotics
+
+AI in Robotics combines artificial intelligence with mechanical systems to create intelligent robots. These robots can sense their surroundings, make decisions, and perform tasks automatically. Applications include industrial automation, healthcare assistance, agriculture, and space exploration."
+Q6,How can computers recognize objects in pictures?,5,document3.txt,Deep Learning,Deep Learning,0.3069596290588379,"Title: Deep Learning
+Category: Deep Learning
+
+Deep Learning is a specialized area of machine learning that uses artificial neural networks with multiple layers. It can process large amounts of complex data such as images, audio, and text. Deep learning is widely used in speech recognition, facial recognition, autonomous vehicles, and natural language processing."
+Q7,How are intelligent robots used in industries?,1,document7.txt,Artificial Intelligence in Robotics,Robotics,0.6242824196815491,"Title: Artificial Intelligence in Robotics
+Category: Robotics
+
+AI in Robotics combines artificial intelligence with mechanical systems to create intelligent robots. These robots can sense their surroundings, make decisions, and perform tasks automatically. Applications include industrial automation, healthcare assistance, agriculture, and space exploration."
+Q7,How are intelligent robots used in industries?,2,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.48701947927474976,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q7,How are intelligent robots used in industries?,3,document9.txt,Artificial Intelligence in Education,Education,0.44621163606643677,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."
+Q7,How are intelligent robots used in industries?,4,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.39539551734924316,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q7,How are intelligent robots used in industries?,5,document10.txt,Artificial Intelligence Ethics,AI Ethics,0.3781188726425171,"Title: Artificial Intelligence Ethics
+Category: AI Ethics
+
+AI Ethics focuses on the responsible development and use of artificial intelligence. Important principles include fairness, transparency, privacy, accountability, and safety. Developers must reduce bias, protect personal information, and ensure that AI systems are used responsibly."
+Q8,How does AI help doctors detect diseases?,1,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.6973437070846558,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q8,How does AI help doctors detect diseases?,2,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.4531586170196533,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q8,How does AI help doctors detect diseases?,3,document7.txt,Artificial Intelligence in Robotics,Robotics,0.42112529277801514,"Title: Artificial Intelligence in Robotics
+Category: Robotics
+
+AI in Robotics combines artificial intelligence with mechanical systems to create intelligent robots. These robots can sense their surroundings, make decisions, and perform tasks automatically. Applications include industrial automation, healthcare assistance, agriculture, and space exploration."
+Q8,How does AI help doctors detect diseases?,4,document10.txt,Artificial Intelligence Ethics,AI Ethics,0.4083123207092285,"Title: Artificial Intelligence Ethics
+Category: AI Ethics
+
+AI Ethics focuses on the responsible development and use of artificial intelligence. Important principles include fairness, transparency, privacy, accountability, and safety. Developers must reduce bias, protect personal information, and ensure that AI systems are used responsibly."
+Q8,How does AI help doctors detect diseases?,5,document9.txt,Artificial Intelligence in Education,Education,0.3773212432861328,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."
+Q9,How can AI improve student learning?,1,document9.txt,Artificial Intelligence in Education,Education,0.6247948408126831,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."
+Q9,How can AI improve student learning?,2,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.3944893479347229,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q9,How can AI improve student learning?,3,document10.txt,Artificial Intelligence Ethics,AI Ethics,0.3590964078903198,"Title: Artificial Intelligence Ethics
+Category: AI Ethics
+
+AI Ethics focuses on the responsible development and use of artificial intelligence. Important principles include fairness, transparency, privacy, accountability, and safety. Developers must reduce bias, protect personal information, and ensure that AI systems are used responsibly."
+Q9,How can AI improve student learning?,4,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.318686306476593,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q9,How can AI improve student learning?,5,document7.txt,Artificial Intelligence in Robotics,Robotics,0.28750789165496826,"Title: Artificial Intelligence in Robotics
+Category: Robotics
+
+AI in Robotics combines artificial intelligence with mechanical systems to create intelligent robots. These robots can sense their surroundings, make decisions, and perform tasks automatically. Applications include industrial automation, healthcare assistance, agriculture, and space exploration."
+Q10,What are the ethical principles of artificial intelligence?,1,document10.txt,Artificial Intelligence Ethics,AI Ethics,0.8031953573226929,"Title: Artificial Intelligence Ethics
+Category: AI Ethics
+
+AI Ethics focuses on the responsible development and use of artificial intelligence. Important principles include fairness, transparency, privacy, accountability, and safety. Developers must reduce bias, protect personal information, and ensure that AI systems are used responsibly."
+Q10,What are the ethical principles of artificial intelligence?,2,document1.txt,Introduction to Artificial Intelligence,Artificial Intelligence,0.5264752507209778,"Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence."
+Q10,What are the ethical principles of artificial intelligence?,3,document7.txt,Artificial Intelligence in Robotics,Robotics,0.422218918800354,"Title: Artificial Intelligence in Robotics
+Category: Robotics
+
+AI in Robotics combines artificial intelligence with mechanical systems to create intelligent robots. These robots can sense their surroundings, make decisions, and perform tasks automatically. Applications include industrial automation, healthcare assistance, agriculture, and space exploration."
+Q10,What are the ethical principles of artificial intelligence?,4,document8.txt,Artificial Intelligence in Healthcare,Healthcare,0.4217113256454468,"Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision."
+Q10,What are the ethical principles of artificial intelligence?,5,document9.txt,Artificial Intelligence in Education,Education,0.4024730920791626,"Title: Artificial Intelligence in Education
+Category: Education
+
+Artificial Intelligence improves education through personalized learning, automated assessments, intelligent tutoring systems, and educational chatbots. AI tools help students understand difficult concepts and allow teachers to monitor student progress. AI supports modern digital learning environments."

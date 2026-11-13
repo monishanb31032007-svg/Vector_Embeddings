@@ -1,0 +1,5 @@
+
+Title: Artificial Intelligence in Robotics
+Category: Robotics
+
+AI in Robotics combines artificial intelligence with mechanical systems to create intelligent robots. These robots can sense their surroundings, make decisions, and perform tasks automatically. Applications include industrial automation, healthcare assistance, agriculture, and space exploration.

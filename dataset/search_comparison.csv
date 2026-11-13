@@ -1,0 +1,11 @@
+query_id,title_semantic,title_keyword,same_top_result
+Q1,Introduction to Artificial Intelligence,Introduction to Artificial Intelligence,True
+Q2,Machine Learning,Machine Learning,True
+Q3,Deep Learning,Deep Learning,True
+Q4,Natural Language Processing,Natural Language Processing,True
+Q5,Generative Artificial Intelligence,Generative Artificial Intelligence,True
+Q6,Computer Vision,Natural Language Processing,False
+Q7,Artificial Intelligence in Robotics,Artificial Intelligence in Robotics,True
+Q8,Artificial Intelligence in Healthcare,Artificial Intelligence in Healthcare,True
+Q9,Artificial Intelligence in Education,Artificial Intelligence in Education,True
+Q10,Artificial Intelligence Ethics,Artificial Intelligence Ethics,True

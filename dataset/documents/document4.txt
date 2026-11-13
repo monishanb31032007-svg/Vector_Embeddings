@@ -1,0 +1,5 @@
+
+Title: Natural Language Processing
+Category: NLP
+
+Natural Language Processing is a field of Artificial Intelligence that helps computers understand, interpret, and generate human language. It is used in chatbots, language translation, sentiment analysis, voice assistants, and text summarization. NLP makes communication between humans and computers easier.

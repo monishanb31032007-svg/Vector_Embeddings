@@ -1,0 +1,51 @@
+query_id,query,rank,document_id,title,keyword_score
+Q1,What is artificial intelligence and how does it work?,1,document1.txt,Introduction to Artificial Intelligence,0.4083
+Q1,What is artificial intelligence and how does it work?,2,document7.txt,Artificial Intelligence in Robotics,0.1932
+Q1,What is artificial intelligence and how does it work?,3,document10.txt,Artificial Intelligence Ethics,0.1931
+Q1,What is artificial intelligence and how does it work?,4,document9.txt,Artificial Intelligence in Education,0.1904
+Q1,What is artificial intelligence and how does it work?,5,document8.txt,Artificial Intelligence in Healthcare,0.1897
+Q2,How can computers learn from data?,1,document2.txt,Machine Learning,0.2647
+Q2,How can computers learn from data?,2,document4.txt,Natural Language Processing,0.1201
+Q2,How can computers learn from data?,3,document3.txt,Deep Learning,0.0709
+Q2,How can computers learn from data?,4,document6.txt,Computer Vision,0.0664
+Q2,How can computers learn from data?,5,document8.txt,Artificial Intelligence in Healthcare,0.0
+Q3,What are neural networks used for?,1,document3.txt,Deep Learning,0.2238
+Q3,What are neural networks used for?,2,document1.txt,Introduction to Artificial Intelligence,0.0624
+Q3,What are neural networks used for?,3,document6.txt,Computer Vision,0.0345
+Q3,What are neural networks used for?,4,document10.txt,Artificial Intelligence Ethics,0.0335
+Q3,What are neural networks used for?,5,document8.txt,Artificial Intelligence in Healthcare,0.033
+Q4,How do computers understand human language?,1,document4.txt,Natural Language Processing,0.4874
+Q4,How do computers understand human language?,2,document6.txt,Computer Vision,0.1346
+Q4,How do computers understand human language?,3,document1.txt,Introduction to Artificial Intelligence,0.1218
+Q4,How do computers understand human language?,4,document2.txt,Machine Learning,0.0652
+Q4,How do computers understand human language?,5,document9.txt,Artificial Intelligence in Education,0.0646
+Q5,Which technology can generate new text and images?,1,document5.txt,Generative Artificial Intelligence,0.2983
+Q5,Which technology can generate new text and images?,2,document4.txt,Natural Language Processing,0.1085
+Q5,Which technology can generate new text and images?,3,document3.txt,Deep Learning,0.0761
+Q5,Which technology can generate new text and images?,4,document6.txt,Computer Vision,0.0411
+Q5,Which technology can generate new text and images?,5,document8.txt,Artificial Intelligence in Healthcare,0.0393
+Q6,How can computers recognize objects in pictures?,1,document4.txt,Natural Language Processing,0.2437
+Q6,How can computers recognize objects in pictures?,2,document6.txt,Computer Vision,0.1346
+Q6,How can computers recognize objects in pictures?,3,document2.txt,Machine Learning,0.1305
+Q6,How can computers recognize objects in pictures?,4,document9.txt,Artificial Intelligence in Education,0.0
+Q6,How can computers recognize objects in pictures?,5,document8.txt,Artificial Intelligence in Healthcare,0.0
+Q7,How are intelligent robots used in industries?,1,document7.txt,Artificial Intelligence in Robotics,0.2765
+Q7,How are intelligent robots used in industries?,2,document1.txt,Introduction to Artificial Intelligence,0.1488
+Q7,How are intelligent robots used in industries?,3,document9.txt,Artificial Intelligence in Education,0.0723
+Q7,How are intelligent robots used in industries?,4,document6.txt,Computer Vision,0.0301
+Q7,How are intelligent robots used in industries?,5,document10.txt,Artificial Intelligence Ethics,0.0292
+Q8,How does AI help doctors detect diseases?,1,document8.txt,Artificial Intelligence in Healthcare,0.2183
+Q8,How does AI help doctors detect diseases?,2,document9.txt,Artificial Intelligence in Education,0.1509
+Q8,How does AI help doctors detect diseases?,3,document5.txt,Generative Artificial Intelligence,0.0984
+Q8,How does AI help doctors detect diseases?,4,document10.txt,Artificial Intelligence Ethics,0.084
+Q8,How does AI help doctors detect diseases?,5,document7.txt,Artificial Intelligence in Robotics,0.028
+Q9,How can AI improve student learning?,1,document9.txt,Artificial Intelligence in Education,0.272
+Q9,How can AI improve student learning?,2,document2.txt,Machine Learning,0.2281
+Q9,How can AI improve student learning?,3,document3.txt,Deep Learning,0.2068
+Q9,How can AI improve student learning?,4,document1.txt,Introduction to Artificial Intelligence,0.1675
+Q9,How can AI improve student learning?,5,document5.txt,Generative Artificial Intelligence,0.1141
+Q10,What are the ethical principles of artificial intelligence?,1,document10.txt,Artificial Intelligence Ethics,0.2472
+Q10,What are the ethical principles of artificial intelligence?,2,document1.txt,Introduction to Artificial Intelligence,0.1963
+Q10,What are the ethical principles of artificial intelligence?,3,document7.txt,Artificial Intelligence in Robotics,0.0929
+Q10,What are the ethical principles of artificial intelligence?,4,document9.txt,Artificial Intelligence in Education,0.0916
+Q10,What are the ethical principles of artificial intelligence?,5,document8.txt,Artificial Intelligence in Healthcare,0.0912

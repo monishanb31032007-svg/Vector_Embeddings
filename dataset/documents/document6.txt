@@ -1,0 +1,5 @@
+
+Title: Computer Vision
+Category: Computer Vision
+
+Computer Vision is a branch of Artificial Intelligence that enables computers to understand and analyze visual information from images and videos. It is used in facial recognition, medical image analysis, object detection, traffic monitoring, and security systems.

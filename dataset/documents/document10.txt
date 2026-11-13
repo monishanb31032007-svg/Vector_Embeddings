@@ -1,0 +1,5 @@
+
+Title: Artificial Intelligence Ethics
+Category: AI Ethics
+
+AI Ethics focuses on the responsible development and use of artificial intelligence. Important principles include fairness, transparency, privacy, accountability, and safety. Developers must reduce bias, protect personal information, and ensure that AI systems are used responsibly.

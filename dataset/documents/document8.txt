@@ -1,0 +1,5 @@
+
+Title: Artificial Intelligence in Healthcare
+Category: Healthcare
+
+Artificial Intelligence is transforming healthcare by helping doctors analyze medical images, identify diseases, and support clinical decisions. AI systems can assist in patient monitoring, drug discovery, and medical research. These technologies can improve healthcare efficiency when used with appropriate human supervision.

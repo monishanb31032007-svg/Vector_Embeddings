@@ -1,0 +1,6 @@
+
+Title: Introduction to Artificial Intelligence
+Category: Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, reasoning, problem-solving, decision-making, and understanding language. AI is used in healthcare, education, banking, transportation, and many other industries. Machine learning and deep learning are important technologies used in artificial intelligence.
+
